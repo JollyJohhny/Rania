@@ -1,0 +1,360 @@
+D:\Bilal's\MyBoutique\MyBoutique\bin\ApplicationInsights.config
+D:\Bilal's\MyBoutique\MyBoutique\bin\MyBoutique.dll.config
+D:\Bilal's\MyBoutique\MyBoutique\bin\MyBoutique.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\MyBoutique.pdb
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\csc.exe
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\csc.exe.config
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\csc.rsp
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\csi.exe
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\csi.exe.config
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\csi.rsp
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.AppContext.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.Collections.Immutable.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.Console.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.IO.Compression.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.IO.FileSystem.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.IO.Pipes.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.Security.AccessControl.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.Security.Claims.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.ValueTuple.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.Xml.XPath.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\vbc.exe
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\vbc.exe.config
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\vbc.rsp
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\VBCSCompiler.exe
+D:\Bilal's\MyBoutique\MyBoutique\bin\roslyn\VBCSCompiler.exe.config
+D:\Bilal's\MyBoutique\MyBoutique\bin\Antlr3.Runtime.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\EntityFramework.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\EntityFramework.SqlServer.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.AI.DependencyCollector.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.AI.Web.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.AI.WindowsServer.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.ApplicationInsights.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Google.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Web.Infrastructure.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Newtonsoft.Json.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\Owin.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\System.Web.Helpers.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\System.Web.Mvc.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\System.Web.Optimization.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\System.Web.Razor.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\System.Web.WebPages.Deployment.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\System.Web.WebPages.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\System.Web.WebPages.Razor.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\WebGrease.dll
+D:\Bilal's\MyBoutique\MyBoutique\bin\System.Web.Helpers.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\System.Web.Mvc.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\System.Web.Optimization.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\System.Web.Razor.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\System.Web.WebPages.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\System.Web.WebPages.Deployment.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\System.Web.WebPages.Razor.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Newtonsoft.Json.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Antlr3.Runtime.pdb
+D:\Bilal's\MyBoutique\MyBoutique\bin\EntityFramework.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\EntityFramework.SqlServer.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Google.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.AI.DependencyCollector.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.AI.WindowsServer.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.AI.Web.xml
+D:\Bilal's\MyBoutique\MyBoutique\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bilal's\MyBoutique\MyBoutique\obj\Debug\MyBoutique.csprojAssemblyReference.cache
+D:\Bilal's\MyBoutique\MyBoutique\obj\Debug\MyBoutique.csproj.CoreCompileInputs.cache
+D:\Bilal's\MyBoutique\MyBoutique\obj\Debug\MyBoutique.csproj.CopyComplete
+D:\Bilal's\MyBoutique\MyBoutique\obj\Debug\MyBoutique.dll
+D:\Bilal's\MyBoutique\MyBoutique\obj\Debug\MyBoutique.pdb
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\ApplicationInsights.config
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\MyBoutique.dll.config
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\MyBoutique.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\MyBoutique.pdb
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\csc.exe
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\csc.exe.config
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\csc.rsp
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\csi.exe
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\csi.exe.config
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\csi.rsp
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.AppContext.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.Collections.Immutable.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.Console.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.IO.Compression.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.IO.FileSystem.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.IO.Pipes.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.Security.AccessControl.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.Security.Claims.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.ValueTuple.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.Xml.XPath.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\vbc.exe
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\vbc.exe.config
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\vbc.rsp
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\VBCSCompiler.exe
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\roslyn\VBCSCompiler.exe.config
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Antlr3.Runtime.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\EntityFramework.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\EntityFramework.SqlServer.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.AI.DependencyCollector.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.AI.Web.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.AI.WindowsServer.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.ApplicationInsights.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Google.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Web.Infrastructure.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Newtonsoft.Json.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Owin.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\System.Web.Helpers.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\System.Web.Mvc.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\System.Web.Optimization.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\System.Web.Razor.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\System.Web.WebPages.Deployment.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\System.Web.WebPages.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\System.Web.WebPages.Razor.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\WebGrease.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\System.Web.Helpers.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\System.Web.Mvc.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\System.Web.Optimization.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\System.Web.Razor.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\System.Web.WebPages.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\System.Web.WebPages.Deployment.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\System.Web.WebPages.Razor.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Newtonsoft.Json.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Antlr3.Runtime.pdb
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\EntityFramework.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\EntityFramework.SqlServer.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Google.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.AI.DependencyCollector.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.AI.WindowsServer.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.AI.Web.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bilal's - Copy\MyBoutique\MyBoutique\obj\Debug\MyBoutique.csprojAssemblyReference.cache
+D:\Bilal's - Copy\MyBoutique\MyBoutique\obj\Debug\MyBoutique.csproj.CoreCompileInputs.cache
+D:\Bilal's - Copy\MyBoutique\MyBoutique\obj\Debug\MyBoutique.csproj.CopyComplete
+D:\Bilal's - Copy\MyBoutique\MyBoutique\obj\Debug\MyBoutique.dll
+D:\Bilal's - Copy\MyBoutique\MyBoutique\obj\Debug\MyBoutique.pdb
+D:\Rania\MyBoutique\MyBoutique\bin\ApplicationInsights.config
+D:\Rania\MyBoutique\MyBoutique\bin\MyBoutique.dll.config
+D:\Rania\MyBoutique\MyBoutique\bin\MyBoutique.dll
+D:\Rania\MyBoutique\MyBoutique\bin\MyBoutique.pdb
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\csc.exe
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\csc.exe.config
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\csc.rsp
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\csi.exe
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\csi.exe.config
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\csi.rsp
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.AppContext.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.Collections.Immutable.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.Console.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.IO.Compression.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.IO.FileSystem.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.IO.Pipes.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.Reflection.Metadata.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.Security.AccessControl.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.Security.Claims.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.ValueTuple.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.Xml.XPath.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\vbc.exe
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\vbc.exe.config
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\vbc.rsp
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\VBCSCompiler.exe
+D:\Rania\MyBoutique\MyBoutique\bin\roslyn\VBCSCompiler.exe.config
+D:\Rania\MyBoutique\MyBoutique\bin\Antlr3.Runtime.dll
+D:\Rania\MyBoutique\MyBoutique\bin\EntityFramework.dll
+D:\Rania\MyBoutique\MyBoutique\bin\EntityFramework.SqlServer.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.AI.DependencyCollector.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.AI.Web.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.AI.WindowsServer.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.ApplicationInsights.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Google.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Web.Infrastructure.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Newtonsoft.Json.dll
+D:\Rania\MyBoutique\MyBoutique\bin\Owin.dll
+D:\Rania\MyBoutique\MyBoutique\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Rania\MyBoutique\MyBoutique\bin\System.Web.Helpers.dll
+D:\Rania\MyBoutique\MyBoutique\bin\System.Web.Mvc.dll
+D:\Rania\MyBoutique\MyBoutique\bin\System.Web.Optimization.dll
+D:\Rania\MyBoutique\MyBoutique\bin\System.Web.Razor.dll
+D:\Rania\MyBoutique\MyBoutique\bin\System.Web.WebPages.Deployment.dll
+D:\Rania\MyBoutique\MyBoutique\bin\System.Web.WebPages.dll
+D:\Rania\MyBoutique\MyBoutique\bin\System.Web.WebPages.Razor.dll
+D:\Rania\MyBoutique\MyBoutique\bin\WebGrease.dll
+D:\Rania\MyBoutique\MyBoutique\bin\System.Web.Helpers.xml
+D:\Rania\MyBoutique\MyBoutique\bin\System.Web.Mvc.xml
+D:\Rania\MyBoutique\MyBoutique\bin\System.Web.Optimization.xml
+D:\Rania\MyBoutique\MyBoutique\bin\System.Web.Razor.xml
+D:\Rania\MyBoutique\MyBoutique\bin\System.Web.WebPages.xml
+D:\Rania\MyBoutique\MyBoutique\bin\System.Web.WebPages.Deployment.xml
+D:\Rania\MyBoutique\MyBoutique\bin\System.Web.WebPages.Razor.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Newtonsoft.Json.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Antlr3.Runtime.pdb
+D:\Rania\MyBoutique\MyBoutique\bin\EntityFramework.xml
+D:\Rania\MyBoutique\MyBoutique\bin\EntityFramework.SqlServer.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Google.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Rania\MyBoutique\MyBoutique\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.AI.DependencyCollector.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.AI.WindowsServer.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.AI.Web.xml
+D:\Rania\MyBoutique\MyBoutique\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Rania\MyBoutique\MyBoutique\obj\Debug\MyBoutique.csprojAssemblyReference.cache
+D:\Rania\MyBoutique\MyBoutique\obj\Debug\MyBoutique.csproj.CoreCompileInputs.cache
+D:\Rania\MyBoutique\MyBoutique\obj\Debug\MyBoutique.csproj.CopyComplete
+D:\Rania\MyBoutique\MyBoutique\obj\Debug\MyBoutique.dll
+D:\Rania\MyBoutique\MyBoutique\obj\Debug\MyBoutique.pdb

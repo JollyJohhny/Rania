@@ -1,0 +1,84 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<br />
+<br />
+<br />
+<head>
+    <style>
+        .btn{
+            color:white;
+            background-color:black;
+            width:300px;
+            height:35px;
+        }
+            .btn:hover {
+                color: black;
+                background-color: white;
+                border-color: black;
+                width: 300px;
+                height: 35px;
+            }
+        body {
+            background-image: url('/Content/Images/Logo.jpg');
+            position: absolute;
+            background-size: 800px;
+            background-position: top;
+            background-repeat: no-repeat;
+        }
+        img {
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        if (ViewBag.Message != null)
+        {
+            <script type="text/javascript">
+            window.onload = function () {
+                alert("@ViewBag.Message");
+            };
+            </script>
+        }
+    }
+           
+                <div style="padding-left:60px">
+                    <div><img src="@ViewBag.pic" style="height:170px;width:180px" /></div>
+                    <h2>@ViewBag.name</h2>
+                    <h4>@ViewBag.date</h4>
+                </div>
+
+                
+                <div class="form-group">
+                    <a href="~/Record/Index" class="btn" style="width:300px;height:35px"><b>Check Record</b></a>
+
+                </div>
+                <div class="form-group">
+                    <a href="~/Record/Create" class="btn" style="width:300px;height:35px"><b>Enter Record</b></a>
+
+                </div>
+
+                <div class="form-group">
+                    <a href="~/Account/ChangeImage" class="btn" style="width:300px;height:35px"><b>Change Picture</b></a>
+
+                </div>
+                <div class="form-group">
+                    <a href="~/Record/Search" class="btn" style="width:300px;height:35px"><b>Seacrh Record</b></a>
+
+                </div>
+                <div class="form-group">
+                    <a href="javascript:document.getElementById('logoutForm').submit()" class="btn" style="width:300px;height:35px"><b>Log Off</b></a>
+
+                </div>
+
+
+            
+</body>
+

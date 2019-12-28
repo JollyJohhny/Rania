@@ -1,0 +1,81 @@
+﻿@model IEnumerable<MyBoutique.Models.RecordListViewModel>
+
+
+@{
+    ViewBag.Title = "SearchName";
+}
+<head>
+    <style>
+        .btn {
+            color: white;
+            background-color: black;
+            width: 280px;
+            height: 35px;
+        }
+
+            .btn:hover {
+                color: black;
+                background-color: white;
+                border-color: black;
+                width: 280px;
+                height: 35px;
+            }
+
+        img {
+            height: 50%;
+            width: 50%;
+        }
+
+        .color {
+            color: black;
+        }
+
+            .color:hover {
+                font-weight: bold;
+                color: black;
+    </style>
+</head>
+<h2>Search Name By Article</h2>
+<center>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+        <p><b>Search By Article</b></p>
+        <div>
+            @Html.DropDownList("ArticleList", (IEnumerable<SelectListItem>)ViewBag.ListArticles, "Select Article Number", new { @class = "form-control" })
+
+        </div>
+        <br />
+        <div class="form-group">
+
+            <button type="submit" name="action" formaction="~/Dashboard/SearchName" value="Search By Article" class="btn">Search</button>
+
+        </div>
+        <br />
+        <br />
+        <h3>Name of Vendor -- @ViewBag.Name</h3>
+        <h3>Article Number -- @ViewBag.Article_No</h3>
+        <h3>Number Of Suits -- @ViewBag.No_Of_Suits</h3>
+        <h3>Price Of Each -- @ViewBag.Price_For_Each</h3>
+
+        <h3>Total Price -- @ViewBag.Total_Price</h3>
+        <h3>Paid Amount --  @ViewBag.Paid_Amount</h3>
+        <h3>Remaining Amount -- @ViewBag.Remaining_Amount</h3>
+
+        <h3>Date of Delievery -- @ViewBag.Date</h3>
+
+
+
+    }
+</center>
+
+
+
+
+

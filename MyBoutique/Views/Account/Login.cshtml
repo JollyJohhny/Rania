@@ -1,0 +1,83 @@
+﻿@using MyBoutique.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Log in";
+}
+<head>
+    <style>
+        .btn {
+            color: white;
+            background-color: black;
+            width: 300px;
+            height: 35px;
+        }
+
+            .btn:hover {
+                color: black;
+                background-color: white;
+                border-color: black;
+                width: 300px;
+                height: 35px;
+            }
+            .color{
+                color:black;
+            }
+        body {
+            background-image: url('/Content/Images/Logo.jpg');
+            position: absolute;
+            background-size: 800px;
+            background-position: top;
+            background-repeat: no-repeat;
+        }
+            .color:hover{
+                font-weight:bold;
+                color:black;
+            }
+    </style>
+</head>
+
+    <h2>@ViewBag.Title</h2>
+    <div class="row">
+        <div class="col-md-8">
+            <section id="loginForm">
+                @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <h4>Login to Check or Enter record of vendor</h4>
+                    <hr />
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Name, new { @class = "col-md-2 control-label" })
+                        <div class="col-md-10">
+                            @Html.DropDownList("Name", (IEnumerable<SelectListItem>)ViewBag.ListOfVendors, "Select Vendor", new { @class = "form-control" })
+                            
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+                        <div class="col-md-10">
+                            @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Log in" class="btn" />
+                        </div>
+                    </div>
+                    <p>
+                        <a href="~/Account/Register" class="color">Register as a new user</a>
+                    </p>
+
+                }
+                <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+            </section>
+        </div>
+
+    </div>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

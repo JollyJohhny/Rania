@@ -1,0 +1,118 @@
+﻿@model IEnumerable<MyBoutique.Models.RecordListViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+<head>
+    <style>
+        .btn {
+            color: white;
+            background-color: black;
+            width: 150px;
+            height: 35px;
+        }
+
+            .btn:hover {
+                color: black;
+                background-color: white;
+                border-color: black;
+                width: 150px;
+                height: 35px;
+            }
+
+        img {
+            border-radius: 50%;
+        }
+        tr {
+            border-bottom: 2px solid black;
+        }
+    </style>
+</head>
+<h2>Search By Article</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ImagePath)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Article_No)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.No_Of_Suits)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Colors)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Total_Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Paid_Amount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Remaining_Amount)
+        </th>
+
+
+        <th>
+            @Html.DisplayNameFor(model => model.Added_On)
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            <img src="@item.ImagePath" style="width:30px;height:30px;border-radius:50%" />
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Article_No)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.No_Of_Suits)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Colors)
+        </td>
+        <td style="border:2px solid black;font-size:large">
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td style="border:2px solid black;font-size:large">
+            @Html.DisplayFor(modelItem => item.Total_Price)
+        </td>
+        <td style="border:2px solid black;font-size:large">
+            @Html.DisplayFor(modelItem => item.Paid_Amount)
+        </td>
+        <td style="border:2px solid black;font-size:large">
+            @Html.DisplayFor(modelItem => item.Remaining_Amount)
+        </td>
+
+
+        <td>
+            @Html.DisplayFor(modelItem => item.Added_On)
+        </td>
+
+        <td>
+            <a href="/Record/Details/@item.Order_Id" class="btn">Details</a>
+        </td>
+        <td>
+            <a href="/Record/Edit/@item.Order_Id" class="btn">Edit</a>
+        </td>
+        <td>
+            <a href="/Record/Delete/@item.Order_Id" class="btn">Delete</a>
+        </td>
+
+    </tr>
+    }
+
+</table>
+<div>
+    <a href="~/Record/Search" class="color">Back To Search</a>
+</div>

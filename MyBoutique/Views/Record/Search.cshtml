@@ -1,0 +1,73 @@
+﻿@model IEnumerable<MyBoutique.Models.RecordListViewModel>
+
+@{
+    ViewBag.Title = "Search";
+}
+<head>
+    <style>
+        .btn {
+            color: white;
+            background-color: black;
+            width: 150px;
+            height: 35px;
+        }
+
+            .btn:hover {
+                color: black;
+                background-color: white;
+                border-color: black;
+                width: 150px;
+                height: 35px;
+            }
+        body {
+            background-image: url('/Content/Images/logo.jpg');
+            position: center;
+            background-size: 800px;
+            background-position: top;
+            background-repeat: no-repeat;
+        }
+
+        img {
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<h2>Search</h2>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+
+
+    
+
+    <br />
+    <br />
+    
+        <p><b>Search By Date</b></p>
+        <div>
+            @Html.DropDownList("DateList", (IEnumerable<SelectListItem>)ViewBag.ListDates, "Select Date", new { @class = "form-control" })
+            <br />
+            <div class="form-group">
+
+                <button type="submit" name="action" formaction="~/Record/SearchByDate" value="Search By Date" class="btn">Search By Date</button>
+
+            </div>
+        </div>
+        <br />
+        <p><b>Search By Article</b></p>
+        <div>
+            @Html.DropDownList("ArticleList", (IEnumerable<SelectListItem>)ViewBag.ListArticles, "Select Article Number", new { @class = "form-control" })
+            <br />
+            <div class="form-group">
+
+                <button type="submit" name="action" formaction="~/Record/SearchByArticle" value="Search By Article" class="btn">Search By Article</button>
+
+            </div>
+        </div>
+        <br /><br /><br /><br />
+
+        
+        
+    
+}

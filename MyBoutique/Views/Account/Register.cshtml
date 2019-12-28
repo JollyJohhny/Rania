@@ -1,0 +1,97 @@
+﻿@model MyBoutique.Models.RegisterViewModel
+@{
+    ViewBag.Title = "Register";
+}
+<head>
+    <style>
+        .btn {
+            color: white;
+            background-color: black;
+            width: 300px;
+            height: 35px;
+        }
+
+            .btn:hover {
+                color: black;
+                background-color: white;
+                border-color: black;
+                width: 300px;
+                height: 35px;
+            }
+        body {
+            background-image: url('/Content/Images/Logo.jpg');
+            position: absolute;
+            background-size: 800px;
+            background-position: top;
+            background-repeat: no-repeat;
+        }
+
+        .color {
+            color: black;
+        }
+
+            .color:hover {
+                font-weight: bold;
+                color: black;
+            }
+    </style>
+</head>
+
+    <h2>@ViewBag.Title Page</h2>
+
+    @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form", enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+        <h4>Create Account for Vendor</h4>
+        <hr />
+        @Html.ValidationSummary("", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(m => m.Name, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Joining_Date, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Joining_Date, new { htmlAttributes = new { @class = "form-control" } })
+                
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.ConfirmPassword, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Image, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+
+                <input class="form-control" type="file" name="Image" id="Image" />
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" class="btn" value="Register" />
+            </div>
+            
+        </div>
+        <div>
+                <a href="~/Account/Login" style="padding-left:50px" class="color">Login</a>
+            </div>
+    }
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

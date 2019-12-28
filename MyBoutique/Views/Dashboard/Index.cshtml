@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<head>
+    <style>
+        .btn {
+            color: white;
+            background-color: black;
+            width: 150px;
+            height: 35px;
+        }
+
+            .btn:hover {
+                color: black;
+                background-color: white;
+                border-color: black;
+                width: 150px;
+                height: 35px;
+            }
+
+        img {
+            height: 50%;
+            width: 50%;
+        }
+
+        .color {
+            color: black;
+        }
+
+            .color:hover {
+                font-weight: bold;
+                color: black;
+    </style>
+</head>
+<center>
+    <h2>Dashboard</h2>
+    <br />
+    <br />
+    <div>
+        <p><b>Total Number of Registered Venderors -- @ViewBag.Count </b></p>
+    </div>
+    <br />
+    <div class="form-group">
+        <a href="~/Dashboard/ShowAll" class="btn" style="width:300px;height:35px"><b>Show All Vendor</b></a>
+
+    </div>
+    <br />
+    <div class="form-group">
+        <a href="~/Dashboard/SearchName" class="btn" style="width:300px;height:35px"><b>Search Vendor By Article</b></a>
+
+    </div>
+    <br />
+    <div class="form-group">
+        <a href="~/Dashboard/OrdersThisWeek" class="btn" style="width:300px;height:35px"><b>Orders This Week</b></a>
+
+    </div>
+</center>
+

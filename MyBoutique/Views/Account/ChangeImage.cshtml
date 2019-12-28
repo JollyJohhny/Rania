@@ -1,0 +1,72 @@
+﻿@model MyBoutique.Models.RegisterViewModel
+
+@{
+    ViewBag.Title = "ChangeImage";
+}
+<head>
+    <style>
+        .btn {
+            color: white;
+            background-color: black;
+            width: 300px;
+            height: 35px;
+        }
+
+            .btn:hover {
+                color: black;
+                background-color: white;
+                border-color: black;
+                width: 300px;
+                height: 35px;
+            }
+        .h1, h2, h3 {
+            color: white;
+        }
+        body {
+            background-image: url('/Content/Images/Logo.jpg');
+            position: absolute;
+            background-size: 800px;
+            background-position: top;
+            background-repeat: no-repeat;
+            
+        }
+
+        img {
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body class="text">
+    <h2>ChangeImage</h2>
+
+    @using (Html.BeginForm("ChangeImage", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form", enctype = "multipart/form-data" }))
+    {
+        @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>ImageViewModel</h4>
+        <hr />
+        
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div class="form-group">
+                @Html.LabelFor(m => m.Image, new { @class = "col-md-2 control-label" })
+                <div class="col-md-10">
+
+                    <input class="form-control" type="file" name="Image" id="Image" />
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Change" class="btn" style="width:400px;height:40px" />
+                </div>
+            </div>
+        </div>
+    
+        <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+    }
+
+
+</body>
